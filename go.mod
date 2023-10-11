@@ -20,9 +20,9 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/image v0.0.0-20201208152932-35266b937fa6
-	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
-	golang.org/x/sys v0.0.0-20210503080704-8803ae5d1324
-	golang.org/x/text v0.3.6
+	golang.org/x/net v0.17.0
+	golang.org/x/sys v0.13.0
+	golang.org/x/text v0.13.0
 	google.golang.org/api v0.46.0
 )
 
